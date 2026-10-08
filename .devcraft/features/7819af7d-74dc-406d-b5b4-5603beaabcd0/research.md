@@ -1,6 +1,6 @@
 # Research: 001-InstallerFile
 
-- Feature State: Research
+- Feature State: Research (at time of writing)
 - Date: 2026-10-08
 - Inputs: `spec.md` (Clarifications #1–#6), repository inspection, profile `~/.DevCraft/` inspection, web sources listed below.
 

@@ -1,0 +1,92 @@
+{
+  "Architectures": [
+    {
+      "Slug": "angular-frontend",
+      "Name": "Angular FrontEnd",
+      "Description": "Define the default architecture guidance for Angular frontend applications.",
+      "Path": "architectures/Angular-FrontEnd.md"
+    },
+    {
+      "Slug": "electron-wrapped-angular",
+      "Name": "Electron Wrapped Angular",
+      "Description": "Define the default architecture guidance for an Angular application packaged with Electron.",
+      "Path": "architectures/Electron-Wrapped-Angular.md"
+    },
+    {
+      "Slug": "ionic-angular",
+      "Name": "Ionic Angular",
+      "Description": "Define the default architecture guidance for Ionic Angular applications.",
+      "Path": "architectures/Ionic-Angular.md"
+    },
+    {
+      "Slug": "nx-workspace",
+      "Name": "Nx Workspace",
+      "Description": "Define the default architecture guidance for an Nx workspace.",
+      "Path": "architectures/Nx-Workspace.md"
+    },
+    {
+      "Slug": "php-laravel-modular-monolith",
+      "Name": "PHP Laravel Modular Monolith",
+      "Description": "Define the default architecture guidance for a Laravel modular monolith.",
+      "Path": "architectures/PHP-Laravel-Modular-Monolith.md"
+    },
+    {
+      "Slug": "playwright-testing",
+      "Name": "Playwright Testing",
+      "Description": "Define the default architecture guidance for building Playwright end-to-end and workflow-focused UI tests.",
+      "Path": "architectures/Playwrite-Tesing.md"
+    },
+    {
+      "Slug": "swiftui-app",
+      "Name": "SwiftUI App",
+      "Description": "Define the default architecture guidance for SwiftUI applications.",
+      "Path": "architectures/SwiftUI-App.md"
+    }
+  ],
+  "Standards": [
+    {
+      "Slug": "go-standards",
+      "Name": "Go Standards",
+      "Description": "Define default coding standards for Go services, CLIs, libraries, and tests.",
+      "Path": "standards/GoLANG.md"
+    },
+    {
+      "Slug": "javascript-standards",
+      "Name": "JavaScript Standards",
+      "Description": "Define default coding standards for JavaScript code in browser, server, scripting, and test environments.",
+      "Path": "standards/Javascript.md"
+    },
+    {
+      "Slug": "laravel-standards",
+      "Name": "Laravel Standards",
+      "Description": "Define Laravel-specific standards that build on the shared PHP standards.",
+      "Path": "standards/Laravel.md"
+    },
+    {
+      "Slug": "php-standards",
+      "Name": "PHP Standards",
+      "Description": "Define default coding standards for PHP applications, libraries, CLI commands, jobs, and tests.",
+      "Path": "standards/PHP.md"
+    },
+    {
+      "Slug": "python-standards",
+      "Name": "Python Standards",
+      "Description": "Define default coding standards for Python applications, services, scripts, automation, and tests.",
+      "Path": "standards/Python.md"
+    },
+    {
+      "Slug": "typescript-standards",
+      "Name": "TypeScript Standards",
+      "Description": "Define default coding standards for TypeScript applications, libraries, frontend code, backend code, and tests.",
+      "Path": "standards/Typescript.md"
+    }
+  ],
+  "ProjectTypes": [
+    {
+      "Slug": "project-type-php-laravel-breeze-mysql-modular-monolith",
+      "Name": "Project Type: PHP Laravel Breeze MySQL Modular Monolith",
+      "Description": "Creates a Laravel web application organized as a modular monolith, with Laravel Breeze (Blade stack) providing authentication and profile management, MySQL as the database through Laravel Sail, and PHPUnit for automated tests.",
+      "Path": "project-types/php-laravel-breeze-mysql-modular-monolith.md"
+    }
+  ]
+}

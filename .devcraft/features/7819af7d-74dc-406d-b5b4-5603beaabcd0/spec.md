@@ -8,7 +8,7 @@
 - Project: DevCraft.OpenSource (`0dcdbaaf-2105-44e8-8526-aa8f1e97385c`)
 - Feature Storage: repo-central
 - Feature Type: Pending (Feature | Bug | Enabler | Task)
-- Feature State: Research
+- Feature State: Implementation
 - Operator Mode: User Operator Mode
 - Created: 2026-10-08
 
@@ -106,7 +106,7 @@ The following is reference only: the contract this feature assumes. It is not a 
 
 ## Research Readiness
 
-Research started 2026-10-08 (the operator moved the feature to Research). Findings are in [research.md](research.md). Before the original readiness note:
+Research completed 2026-10-08; findings are in [research.md](research.md). Planning started 2026-10-08; tasks are in [tasks.md](tasks.md). Before the original readiness note:
 
 Ready. Research should cover:
 - Homebrew-style remote install patterns for bash and PowerShell.

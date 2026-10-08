@@ -1,0 +1,20 @@
+{
+  "ProjectKey": "0dcdbaaf-2105-44e8-8526-aa8f1e97385c",
+  "SelectedFeatureStorage": "repo-central",
+  "FeaturesIndexPath": "features.json",
+  "ProjectProfile": {
+    "Name": "DevCraft.OpenSource",
+    "Purpose": "This repository has configuration files for DevCraft to support open source software development. ",
+    "Description": "This repository has configuration files for DevCraft to support open source software development. "
+  },
+  "Features": [
+    {
+      "Name": "001-InstallerFile",
+      "Slug": "001-installerfile",
+      "ShortDescription": "Pending.",
+      "FolderName": "7819af7d-74dc-406d-b5b4-5603beaabcd0",
+      "StorageType": "repo-central",
+      "ExternalReference": null
+    }
+  ]
+}
